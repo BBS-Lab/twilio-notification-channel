@@ -32,7 +32,7 @@ Original [repo](https://github.com/laravel-notification-channels/twilio) has dis
 You can install the package via composer:
 
 ``` bash
-composer require laravel-notification-channels/twilio
+composer require bbs-lab/twilio-notification-channel
 ```
 
 ### Configuration
